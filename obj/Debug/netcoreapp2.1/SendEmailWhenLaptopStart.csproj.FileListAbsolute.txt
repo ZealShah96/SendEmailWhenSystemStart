@@ -1,0 +1,11 @@
+D:\My Experiments\SendEmailWhenLaptopStart\bin\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.deps.json
+D:\My Experiments\SendEmailWhenLaptopStart\bin\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.runtimeconfig.json
+D:\My Experiments\SendEmailWhenLaptopStart\bin\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.runtimeconfig.dev.json
+D:\My Experiments\SendEmailWhenLaptopStart\bin\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.dll
+D:\My Experiments\SendEmailWhenLaptopStart\bin\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.pdb
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.csprojAssemblyReference.cache
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.csproj.CoreCompileInputs.cache
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.AssemblyInfoInputs.cache
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.AssemblyInfo.cs
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.dll
+D:\My Experiments\SendEmailWhenLaptopStart\obj\Debug\netcoreapp2.1\SendEmailWhenLaptopStart.pdb
