@@ -44,7 +44,7 @@ namespace SendEmailWhenLaptopStart
 
                 SmtpServer.Port = 587;
 
-                SmtpServer.Credentials = new System.Net.NetworkCredential("zealshah96@gmail.com", "Zaqxswcde1996@");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("zealshah96@gmail.com", "password");
 
                 SmtpServer.EnableSsl = true;
 
